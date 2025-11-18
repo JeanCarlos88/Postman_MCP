@@ -1,6 +1,6 @@
 # 🚀 Postman MCP + GitHub Copilot
 
-![Postman MCP Banner](https://raw.githubusercontent.com/JeanCarlos88/Postman_MCP/main/assets/banner.png)
+![Postman MCP Banner](/assets/og-image.png)
 
 > **Teste suas APIs conversando naturalmente com o GitHub Copilot - Sem sair do VS Code!**
 
